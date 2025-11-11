@@ -1,4 +1,0 @@
-Name: John Doe
-Email: john.doe@example.com
-Experience: 3 years
-Skills: Java, Spring, SQL

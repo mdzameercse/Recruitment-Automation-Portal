@@ -1,4 +1,0 @@
-Name: Alice Kumar
-Email: alice.kumar@example.com
-Experience: 5 years
-Skills: React, Node, Docker
